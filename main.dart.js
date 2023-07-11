@@ -80678,7 +80678,7 @@ f=document.createElement("a")
 f.toString
 if(b!=null)f.href=b
 h=f
-h.download=i
+h.download=A.h(i)+".pdf"
 J.aCP(h)
 q="Pdf is downloaded...\ud83d\udc4d"
 s=1
